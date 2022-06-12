@@ -1,1 +1,1 @@
-sudo docker run -p 8080:8080 -t springio/gs-spring-boot-docker
+sudo docker run --name spring-boot-docker -p 8080:8080 -t springio/gs-spring-boot-docker
